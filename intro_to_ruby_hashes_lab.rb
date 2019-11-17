@@ -29,8 +29,7 @@ def monopoly_with_third_tier
           :pennsylvania_road => {},
           :b_and_o_railroad => {},
           :shortline_railroad => {}
-        }
-      }
+      },
                   rent_in_dollars:
                   {
                     one_piece_owned: 25, 
